@@ -2,17 +2,16 @@
 
 MouseWord is a tool that makes learning vocabulary easy. When you're reading an
 online text in the language that you're learning, as a beginner you might often
-find yourself using google translate or online dictionaries to translate the words
-you don't know. This can be especially tedious when you need to look up the same
-word multiple times.
+find yourself using google translate or online dictionaries to translate unfamiliar
+words. This can significantly slow down your reading and make it very tedious.
 
-That's where MouseWord comes in. It allows you to translate single words out of a
-website just by hovering mouse over them for a second.
+That's where MouseWord comes in. It allows you to translate words on a
+website just by hovering with your cursor over them for a second.
 
 ## Installation
 
 First you need to install Tampermonkey / Greasemonkey browser extension. Then you
-open the extension's dashboard and click on the button with + sign, designated for
+open the extension's dashboard and click on the button with the + sign, designated for
 creating a new script. After doing so you copy paste the contents of file "mouseword.js"
 from this repository and save.
 
